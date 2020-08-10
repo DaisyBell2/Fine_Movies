@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fine Movies</string>
+    <string name="poster_of_movie">Movie poster</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Most rated</string>
+    <string name="add_to_favourite">Added to favorites</string>
+    <string name="remove_from_favourite">Removed from favorites</string>
+    <string name="item_main">Home</string>
+    <string name="item_favourite">Favorites</string>
+    <string name="launch_trailer">Launch trailer</string>
+    <string name="label_title">Name:</string>
+    <string name="text_view">TextView</string>
+    <string name="label_original_title">Original name:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_release_date">Date of release:</string>
+    <string name="label_description">Description:</string>
+</resources>

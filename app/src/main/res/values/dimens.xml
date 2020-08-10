@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="size_of_star_landscape">40dp</dimen>
+    <dimen name="size_layout_margin_switch">8dp</dimen>
+    <dimen name="size_layout_margin_text">8dp</dimen>
+    <dimen name="size_layout_margin_recyclerview">8dp</dimen>
+    <dimen name="size_progress_par">42dp</dimen>
+    <dimen name="size_padding">8dp</dimen>
+    <dimen name="size_layout_margin_cardview">8dp</dimen>
+    <dimen name="size_layout_margin_imageview">8dp</dimen>
+    <dimen name="size_image_play">60dp</dimen>
+</resources>
